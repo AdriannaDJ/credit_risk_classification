@@ -10,10 +10,10 @@ The data was split using the train_test_split method with a random state of 1. N
 
 ## Results
 
-* Logistic Regression:
-    * Accuracy was 0.99, a high accuracy score.
-    * Precision was 1.00 (a perfect score) for health loans and 0.85 for high-risk loans. Both scores are high. The high-risk loans could improve.
-    * Recall was 0.99 for healthy loans and 0.91 for high-risk loans. Both scores are high.
+* Logistic Regression:</br>
+    * Accuracy was 0.99, a high accuracy score.</br>
+    * Precision was 1.00 (a perfect score) for health loans and 0.85 for high-risk loans. Both scores are high. The high-risk loans could improve.</br>
+    * Recall was 0.99 for healthy loans and 0.91 for high-risk loans. Both scores are high.</br>
 
 ## Summary
 
